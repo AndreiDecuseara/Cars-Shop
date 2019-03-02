@@ -1,0 +1,155 @@
+# depslib dependency file v1.0
+1526152651 source:c:\users\decan\desktop\facultate\poo\proiect 3\masina.cpp
+	"masina.h"
+	<iostream>
+	<string.h>
+	<fstream>
+
+1526735058 c:\users\decan\desktop\facultate\poo\proiect 3\masina.h
+	<iostream>
+	<string.h>
+	<fstream>
+
+1526735058 source:c:\users\decan\desktop\facultate\poo\proiect 3\main.cpp
+	"coupe.h"
+	"masina.h"
+	<conio.h>
+	"hot_hetch.h"
+	"supersport.h"
+	"expozitie.h"
+
+1526152505 source:c:\users\decan\desktop\facultate\poo\proiect 3\coupe.cpp
+	"coupe.h"
+	<iostream>
+	<string.h>
+	<fstream>
+	"masina.h"
+
+1526070630 c:\users\decan\desktop\facultate\poo\proiect 3\coupe.h
+	<iostream>
+	<string.h>
+	<fstream>
+	"masina.h"
+
+1526152651 source:c:\users\decan\desktop\facultate\poo\proiect 3\hot_hetch.cpp
+	"hot_hetch.h"
+	<iostream>
+	<string.h>
+	<fstream>
+	"masina.h"
+
+1526148488 c:\users\decan\desktop\facultate\poo\proiect 3\hot_hetch.h
+	<iostream>
+	<string.h>
+	<fstream>
+	"masina.h"
+
+1526371782 c:\users\decan\desktop\facultate\poo\proiect 3\supersport.h
+	<iostream>
+	<string.h>
+	<fstream>
+	"masina.h"
+
+1526212930 source:c:\users\decan\desktop\facultate\poo\proiect 3\supersport.cpp
+	"supersport.h"
+	<iostream>
+	<string.h>
+	<fstream>
+	"masina.h"
+
+1526376900 source:c:\users\decan\desktop\facultate\poo\proiect 3\expozitie.cpp
+	<iostream>
+	<string.h>
+	<fstream>
+	"masina.h"
+	"coupe.h"
+	"hot_hetch.h"
+	"supersport.h"
+	"expozitie.h"
+
+1526377252 c:\users\decan\desktop\facultate\poo\proiect 3\expozitie.h
+	<iostream>
+	<string.h>
+	<fstream>
+	"masina.h"
+	"coupe.h"
+	"hot_hetch.h"
+	"supersport.h"
+
+1526373300 source:c:\users\decan\desktop\facultate\anul 1\sem 2\poo\proiect 3\expozitie.cpp
+	<iostream>
+	<string.h>
+	<fstream>
+	"masina.h"
+	"coupe.h"
+	"hot_hetch.h"
+	"supersport.h"
+	"expozitie.h"
+
+1526731458 c:\users\decan\desktop\facultate\anul 1\sem 2\poo\proiect 3\masina.h
+	<iostream>
+	<string.h>
+	<fstream>
+
+1526067030 c:\users\decan\desktop\facultate\anul 1\sem 2\poo\proiect 3\coupe.h
+	<iostream>
+	<string.h>
+	<fstream>
+	"masina.h"
+
+1526144888 c:\users\decan\desktop\facultate\anul 1\sem 2\poo\proiect 3\hot_hetch.h
+	<iostream>
+	<string.h>
+	<fstream>
+	"masina.h"
+
+1526368182 c:\users\decan\desktop\facultate\anul 1\sem 2\poo\proiect 3\supersport.h
+	<iostream>
+	<string.h>
+	<fstream>
+	"masina.h"
+
+1526373652 c:\users\decan\desktop\facultate\anul 1\sem 2\poo\proiect 3\expozitie.h
+	<iostream>
+	<string.h>
+	<fstream>
+	"masina.h"
+	"coupe.h"
+	"hot_hetch.h"
+	"supersport.h"
+
+1526149051 source:c:\users\decan\desktop\facultate\anul 1\sem 2\poo\proiect 3\hot_hetch.cpp
+	"hot_hetch.h"
+	<iostream>
+	<string.h>
+	<fstream>
+	"masina.h"
+
+1526731458 source:c:\users\decan\desktop\facultate\anul 1\sem 2\poo\proiect 3\main.cpp
+	"coupe.h"
+	"masina.h"
+	<conio.h>
+	"hot_hetch.h"
+	"supersport.h"
+	"expozitie.h"
+
+1526149051 source:c:\users\decan\desktop\facultate\anul 1\sem 2\poo\proiect 3\masina.cpp
+	"masina.h"
+	<iostream>
+	<string.h>
+	<fstream>
+
+1526209330 source:c:\users\decan\desktop\facultate\anul 1\sem 2\poo\proiect 3\supersport.cpp
+	"supersport.h"
+	<iostream>
+	<string.h>
+	<fstream>
+	"masina.h"
+
+1526148905 source:c:\users\decan\desktop\facultate\anul 1\sem 2\poo\proiect 3\coupe.cpp
+	"coupe.h"
+	<iostream>
+	<string.h>
+	<fstream>
+	"masina.h"
+

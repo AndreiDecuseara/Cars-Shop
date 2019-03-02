@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="proiect 3" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin\Debug\proiect 3" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj\Debug\" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin\Release\proiect 3" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj\Release\" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="coupe.cpp" />
+		<Unit filename="coupe.h" />
+		<Unit filename="expozitie.cpp" />
+		<Unit filename="expozitie.h" />
+		<Unit filename="hot_hetch.cpp" />
+		<Unit filename="hot_hetch.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="masina.cpp" />
+		<Unit filename="masina.h" />
+		<Unit filename="masini.in">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="masini_coupe.in">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="masini_hetch,in">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="supersport.cpp" />
+		<Unit filename="supersport.h" />
+		<Unit filename="supersport.in">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
